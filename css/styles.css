@@ -1,0 +1,59 @@
+body {
+    font-family:'Montserrat' !important;
+}
+
+p {
+    font-size:90% !important;
+    
+}
+
+
+
+.row-header {
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #d1c4e9;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    color: white;
+    background-color:darkgray;
+}
+
+a {
+    color:rgb(119, 87, 110) !important;
+}
+
+h3 {
+    color:rgb(68, 51, 63) !important;
+    
+}
+
+h2{
+    font-weight:500 !important;
+}
+
+#history {
+    background-color:rgba(216, 112, 147, 0.39) !important;
+}
+
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
