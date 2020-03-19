@@ -1,10 +1,16 @@
 body {
     font-family:'Montserrat' !important;
+    padding-top: 50px;
+    z-index: 0;
 }
 
 p {
     font-size:90% !important;
     
+}
+
+.navbar-dark {
+    background: #2b1a4b !important;
 }
 
 
@@ -34,9 +40,7 @@ p {
     background-color:darkgray;
 }
 
-a {
-    color:rgb(119, 87, 110) !important;
-}
+
 
 h3 {
     color:rgb(68, 51, 63) !important;
