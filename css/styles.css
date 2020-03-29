@@ -44,7 +44,8 @@ p {
 
 h3 {
     color:rgb(68, 51, 63) !important;
-    
+    font-weight:bolder !important;
+    margin: 10px 0px 15px 0px;
 }
 
 h2{
